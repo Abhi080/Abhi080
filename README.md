@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Abhi080
-- 👀 I’m interested in computer engineering 
-- 🌱 I’m currently learning computer  languages
+- 👀 I have completed my graduation , Bachelor of computer application
+- Skills Java, c++, Pyhton, Mysql
+- 🌱 I’m currently learning more computer  languages
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  contact 6388704453, mail abhishekchauhan082122@gmail.com 
+- 📫 How to reach me  contact 7408881129, mail abhishekchauhan082122@gmail.com 
 
 <!---
 Abhi080/Abhi080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
